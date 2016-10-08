@@ -1,0 +1,25 @@
+math 1100,algebra,
+math 1650,pre-calculus,math 1100
+math 1710,calculus 1,math 1650
+math 1720,calculus 2,math 1710
+math 2730,calculus 3,math 1720
+chem 1410,chemistry 1,math 1100
+math 1780,probability models,math 1710
+math 2700,linear algebra,math 1720
+phys 1710,physics 1,math 1710
+phys 2220,physics 2,math 1720| phys 1710
+csce 1030,computer science 1,math 1650
+csce 1040,computer science 2,csce 1030
+csce 2100,computer foundations 1,csce 1040
+csce 2110,computer foundations 2,csce 2100
+csce 2610,computer organization,csce 2100
+eeng 2710,digital logic,math 1710
+csce 3612,embedded systems,csce 2610|eeng 2710
+csce 3730,reconfiguration logic,csce 2610
+eeng 2610,circuit analysis,math 1720
+csce 3010,signals and systems,math 2730|eeng 2610
+csce 3020,communication theory,math 1780|csce 3010|eeng 3510
+eeng 3510,electronics 1,eeng 2610
+csce 4910,senior design 1,eeng 3510|csce 3612
+csce 4915,senior design 2,csce 4915
+csce 4010,engineering ethics ,*must be at least a junior

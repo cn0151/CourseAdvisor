@@ -1,0 +1,5 @@
+math 1100, 3, A
+math 1650, 3, A
+math 1710, 4, A
+math 1720, 4, A
+csce 1030, 3, A
